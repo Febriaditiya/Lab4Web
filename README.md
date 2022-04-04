@@ -141,9 +141,36 @@ Dan Alhasilnya seperti berikut
 
 *Pertanyaan Dan Tugas*
 1. Tambahkan Layout untuk menu About => buat Singel layout yang berisi deskripsi,portofolio,dll
+
+*Menambahkan About*
+Membuat file baru lalu buat tag hmtl
+
+![33.png](img/33.png)
+
+Lalu Tambahkan Style di CSS
+
+![34.png](img/34.png)
+
+Maka Tampilannya Seperti ini
+
+![35.png](img/35.png)
+
 2. tambahkan layout untuk menu contant => yang berisi form isian:nama,email,message,dll
 
+*Menambhkan Form di kontak*
+Buat file baru lagi dengan tag html
 
+![36.png](img/36.png)
+
+Tambahkan tampilan CSS
+
+![37.png](img/37.png)
+
+![38.png](img/38.png)
+
+Dan Hasilnya Seperti berikut.
+
+![39.png](img/39.png)
 
 
 
